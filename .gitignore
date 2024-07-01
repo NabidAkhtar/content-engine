@@ -1,0 +1,37 @@
+# Virtual Environment
+content_engine_env/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database files
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.bak
+
+# Chroma persistence directory (if you're using Chroma)
+chroma_db/
